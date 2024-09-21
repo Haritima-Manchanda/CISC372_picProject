@@ -1,6 +1,4 @@
-# CISC372_hw4
-
-For this assignment we will be modifying a simple image convolution program that can load an image and apply a standard filter to that image.  The program will output the results as a png image called output.png.  Available filters are: edge detection, sharpen, blur, gaussian, emboss, identity).  These are RUDIMENTARY filters, and results are very poor compared to most commercial software, but it is sufficient to play with for our purposes. 
+Modifying a simple image convolution program that can load an image and apply a standard filter to that image.  The program will output the results as a png image called output.png.  Available filters are: edge detection, sharpen, blur, gaussian, emboss, identity).  These are RUDIMENTARY filters, and results are very poor compared to most commercial software, but it is sufficient to play with for our purposes. 
 
 
 Step 1: pthreads
